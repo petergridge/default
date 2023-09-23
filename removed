@@ -1423,7 +1423,7 @@
   {
     "repository": "petergridge/Irrigation-Card",
     "reason": "Included in custom component deployment",
-    "removal_type": "deprecated"
+    "removal_type": "deprecated",
     "link": "https://github.com/petergridge/Irrigation-Card"
   }
 ]
