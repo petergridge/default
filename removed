@@ -1419,5 +1419,10 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/thebino/rki_covid"
+  },
+  {
+    "repository": "petergridge/Irrigation-Card",
+    "reason": "Included in custom component deployment",
+    "removal_type": "deprecated"
   }
 ]
